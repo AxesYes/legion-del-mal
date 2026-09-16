@@ -5,4 +5,7 @@
 2.luthor 
 3.darkseid
 5.carnage
-6.laser viviente
+6.laser vivienteg
+
+
+#notas 
