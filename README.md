@@ -39,7 +39,7 @@ Para forzar la actualización en clase, agrega un parámetro cualquiera al final
 
 
 
-# 🦹‍♂️ La Legión del Mal
+# 🦹‍♂️ La Legión del Mal -- desde remoto 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
 > — Lex Luthor, fundador
