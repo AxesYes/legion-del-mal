@@ -20,7 +20,7 @@ Leen datos reales del repositorio y se actualizan solos:
 ![Release](https://img.shields.io/github/v/release/AxesYes/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/fernando-dev85/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/AxesYes/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/AxesYes/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/AxesYes/legion-del-mal?cacheSeconds=60)
 
 Un detalle práctico: GitHub cachea las imágenes a través de Camo, así que un badge dinámico puede tardar unos minutos en reflejar el cambio.
 
