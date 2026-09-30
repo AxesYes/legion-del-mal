@@ -6,3 +6,8 @@ zazz
 ##amigos 
 roy harper
 artemisa 
+##familiares 
+tin drake
+dick grayson
+bruce wayne
+damian wayne
