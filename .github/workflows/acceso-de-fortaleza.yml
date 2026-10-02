@@ -1,6 +1,6 @@
 name: acceso de fortaleza 
 
-on: push
+on: workflow_dispatch
 
 jobs:
   acceso-a-la-base:
