@@ -14,3 +14,19 @@ jobs:
           ls -la
           echo ""
           echo "pero que paso no hay nada"
+      - name: "llega brianiac y les da acceso a la fortaleza"
+        uses: actions/checkout@v4
+      - name: "ahora si vamos a ver los planes
+          de la legion del mal"
+        run: |
+          echo "ahora si vamos a ver los archivos de la legion del mal"
+          ls -la
+          echo "si funciona"
+          echo ""
+          echo "planes:"
+          ls planes/
+          echo "villanos:"
+          ls villanos/
+          echo "inteligencia:"
+          ls inteligencia/
+          
